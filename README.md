@@ -2,7 +2,7 @@
 
 ### Computer Science Student · Full-Stack Developer · PKI & Cybersecurity · AI
 
-I'm a Computer Science student currently in my **4th and final year**.
+I'm a Computer Science student currently in my **4th and final year** @ Hawassa University.
 I'm interested in building practical software, understanding how systems
 work, and continuously improving my skills through hands-on learning.
 
