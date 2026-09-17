@@ -176,7 +176,7 @@ I believe in learning by building:
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kibrom-zewdu)](https://github.com/kibrom-zewdu)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kibrom-zewdu)](https://git.io/streak-stats)
 
 ---
 
