@@ -64,9 +64,8 @@ Public Key Infrastructure (PKI), Python, and AI engineering**.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ---
 
@@ -157,23 +156,13 @@ Developing skills in:
 
 I believe in learning by building:
 
-```text
-Learn → Build → Break → Debug → Understand → Improve
-```
+`Learn → Build → Break → Debug → Understand → Improve`
 
 ---
 
 ## 📌 Current Focus
 
-```text
-Full-Stack Development
-        +
-PKI & Cybersecurity
-        +
-Python & AI Engineering
-        +
-Software Architecture
-```
+`Full-Stack Development` + `PKI & Cybersecurity` + `Python & AI Engineering` + `Software Architecture`
 
 ---
 
