@@ -172,11 +172,6 @@ I believe in learning by building:
 
 [![GitHub](https://img.shields.io/badge/GitHub-kibrom--zewdu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kibrom-zewdu)
 
----
-
-## 📈 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kibrom-zewdu)](https://github.com/kibrom-zewdu)
 
 ---
 
