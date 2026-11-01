@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Kibrom Zewdu
 
 ### Computer Science Student · Full-Stack Developer · PKI & Cybersecurity · AI
@@ -86,7 +87,6 @@ Public Key Infrastructure (PKI), Python, and AI engineering**.
 - Python for AI Engineering
 - NumPy
 - Pandas
-- Data Visualization
 - Machine Learning
 - Deep Learning
 - AI Engineering
@@ -173,10 +173,7 @@ I believe in learning by building:
 
 [![GitHub](https://img.shields.io/badge/GitHub-kibrom--zewdu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kibrom-zewdu)
 
+
 ---
 
 ⭐ Thanks for visiting my profile!
-
----
-
-[![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=kibrom-zewdu&theme=default)](https://github-streak-bijay-shre-stha.vercel.app/kibrom-zewdu)
